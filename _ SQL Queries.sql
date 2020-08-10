@@ -281,6 +281,8 @@ SELECT c.first_name, c.last_name
 	FROM Customer c
 	WHERE c.id NOT IN (SELECT customer_id
 		FROM Account cb
-        GROUP BY customer_id);
+        GROUP BY customer_id);   
 
+-- ------------------------------------------------
+-- 		   --- END ---
 -- ------------------------------------------------
