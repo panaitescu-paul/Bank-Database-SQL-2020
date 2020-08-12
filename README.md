@@ -1,4 +1,4 @@
-# Bank-Database-SQL-2020
+# Bank Database - SQL - 2020
 Bank Database made in SQL
 
 ## Content:
