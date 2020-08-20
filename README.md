@@ -1,5 +1,5 @@
 # Bank Database - SQL - 2020
-Bank Database made in SQL
+### Bank Database made in SQL
 
 ## Content:
 - **SQL Queries and Exercises** applied on the Bank DB
@@ -14,6 +14,7 @@ Bank Database made in SQL
 - MySQL Workbench
 
 ## Preview:
+### ER Diagram of the database
 
 <p align="center">
   <hr>
